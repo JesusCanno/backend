@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "nombre": "Edificio de apartamentos en Zell",
+      "precio": "338.000 €",
+      "area": "230 m²",
+      "habitaciones": 8,
+      "foto": "casa2.jpeg",
+      "ubicacion": "Carretera federal 27, Zell en el Valle del Wiese",
+      "tipo": "Apartamento"
+    },
+    {
+      "id": 2,
+      "nombre": "Villa en Ansbach",
+      "precio": "749.000 €",
+      "area": "209,14 m²",
+      "habitaciones": 5,
+      "foto": "casa2.jpeg",
+      "ubicacion": "Egloffswinden",
+      "tipo": "Piso"
+    },
+    {
+      "id": 3,
+      "nombre": "Casa moderna en Berlín",
+      "precio": "1.200.000 €",
+      "area": "350 m²",
+      "habitaciones": 6,
+      "foto": "casa3.jpeg",
+      "ubicacion": "Berlín, Alemania",
+      "tipo": "Apartamento"
+    }
+  ]
+  
