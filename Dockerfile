@@ -28,6 +28,8 @@ RUN composer install --no-dev --optimize-autoloader
 # Permisos para Laravel
 RUN chown -R www-data:www-data /var/www/storage /var/www/bootstrap/cache
 
+RUN docker-php-ext-install pdo_pgsql
+
 # Expone el puerto 8080
 EXPOSE 8080
 
